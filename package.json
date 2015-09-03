@@ -1,0 +1,26 @@
+{
+  "name": "vk-then",
+  "version": "0.0.1",
+  "description": "vk api with bluebird Promises ",
+  "main": "./lib/vk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artsoroka/vk-then"
+  },
+  "keywords": [
+    "api",
+    "vk",
+    "vk.com",
+    "promises",
+    "bluebird"
+  ],
+  "author": "Artem Soroka <art.soroka@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artsoroka/vk-then/issues"
+  },
+  "homepage": "https://github.com/artsoroka/vk-then"
+}
