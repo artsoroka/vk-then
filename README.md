@@ -1,5 +1,10 @@
 ## VK API with promises 
 
+**Dependencies:** 
+
+* request 
+* bluebird 
+
 Usage 
 ```js
 var VK  = require('vk-then'); 

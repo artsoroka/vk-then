@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/artsoroka/vk-then/issues"
   },
-  "homepage": "https://github.com/artsoroka/vk-then"
+  "homepage": "https://github.com/artsoroka/vk-then",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "request": "^2.61.0"
+  }
 }
