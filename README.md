@@ -5,6 +5,12 @@
 * request 
 * bluebird 
 
+Install 
+
+```
+npm install --save git+https://git@github.com/artsoroka/vk-then.git
+```
+
 Usage 
 ```js
 var VK  = require('vk-then'); 
